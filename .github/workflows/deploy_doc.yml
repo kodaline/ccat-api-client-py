@@ -28,6 +28,6 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.MKDOCS_TOKEN }}
-        publish_dir: ./mkdocs
+        publish_dir: ./ccat-api-client-py
         publish_branch: gh-pages
         force_orphan: true
