@@ -28,7 +28,7 @@ plugins:
 #  - mkdocs/hooks/drawio_file.py
 
 nav:
-  - Hello, dear: index.md
+  - Hello: index.md
 
 #  - Quickstart:
 #      - Introduction: quickstart/introduction.md
