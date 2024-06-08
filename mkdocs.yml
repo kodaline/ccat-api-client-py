@@ -2,7 +2,7 @@ site_name: The Cheshire Cat API Python Client
 repo_url: https://github.com/kodaline/ccat-api-client-py
 
 docs_dir: mkdocs
-site_dir: api-client-py
+site_dir: ccat-api-client-py
 
 plugins:
   - mkdocs-video:
